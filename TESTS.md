@@ -15,19 +15,19 @@ sudo -H pip3 install pytest
     pytest assignments/00HelloWorld
     ```
 
-- ## 01 Operaciones Básicas
+- ## 01 Operaciones básicas
     ### Run command
     ```
     pytest assignments/01OperacionesBasicas
     ```
 
-- ## 02 Área Triángulo
+- ## 02 Área triángulo
     ### Run command
     ```
     pytest assignments/02AreaTriangulo
     ```
 
-- ## 03 Premedio Calificaciones
+- ## 03 Promedio calificaciones
     ### Run command
     ```
     pytest assignments/03Promedio
@@ -51,7 +51,7 @@ sudo -H pip3 install pytest
     pytest assignments/06Peso
     ```
 
-- ## 07 Pendiente Línea
+- ## 07 Pendiente línea
     ### Run command
     ```
     pytest assignments/07PendienteLinea
@@ -81,7 +81,7 @@ sudo -H pip3 install pytest
     pytest assignments/11PEMDAS
     ```
 
-- ## 18 Cuenta Bancaria
+- ## 18 Cuenta bancaria
     ### Run command
     ```
     pytest assignments/18CuentaBancaria
@@ -93,19 +93,19 @@ sudo -H pip3 install pytest
     pytest assignments/19Editorial
     ```
 
-- ## 20 Acertijo Edad
+- ## 20 Acertijo edad
     ### Run command
     ```
     pytest assignments/20AcertijoEdad
     ```
 
-- ## 21 Levadura para Pizza
+- ## 21 Levadura para pizza
     ### Run command
     ```
     pytest assignments/21LevaduraParaPizza
     ```
 
-- ## 22 Digitos Pares
+- ## 22 Digitos pares
     ### Run command
     ```
     pytest assignments/22DigitosPares
